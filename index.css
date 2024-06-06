@@ -1,0 +1,15 @@
+h3 {
+  text-align: right;
+}
+
+.btn-group {
+  display: flex;
+}
+
+nav h2 {
+  color: aliceblue !important;
+}
+
+.container {
+  padding: 25px;
+}
